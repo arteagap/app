@@ -1,0 +1,81 @@
+label.error{
+	display: none !important;
+}
+
+
+.leftpanel-suc{
+	border-bottom: 1px solid #eee;
+}
+
+.sucursal-head{
+	padding: 5px;
+	font-size: 14px;
+}
+
+.montos .mount
+{
+	text-align: right;
+	font-weight: bold;
+}
+
+.montos .form-group{
+	margin: 0px;
+}
+
+.montos .valor-total{
+	border-bottom: 1px solid #f1f1f1;
+	color: #333;
+}
+
+.input-sm 
+{
+	margin: 0px;
+}
+
+button.input-sm,a.input-sm
+{
+    padding: 3px 15px;
+}
+
+a.input-sm{
+    line-height: 22px !important;
+}
+
+input.input-sm 
+{
+    height: 30px;
+    line-height: 30px;
+}
+
+.idrow-invoice td{
+	vertical-align: middle !important;
+}
+
+.right
+{
+	text-align: right;
+}
+
+.error-venta label.error{
+    display: block !important;
+    background-color: #f2dede;
+    border: 1px solid #ebccd1;
+    color: #a94442;
+    padding: 5px 10px;
+    display: block;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;	
+}
+
+.pageheader .pageicon {
+    background-color: #5cb85c;
+}
+
+.name-bis
+{
+	padding: 7px 8px 0px 0px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;	
+}

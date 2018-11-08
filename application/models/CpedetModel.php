@@ -1,0 +1,18 @@
+<?php
+Class CpedetModel extends CI_Model
+{
+		public $DET_ITEM;
+		public $DET_UNIDAD_MEDIDA;
+		public $DET_INDICADOR_INCLUYE_IGV;
+		public $DET_VALOR_UNITARIO;
+		public $DET_PRECIO_UNITARIO;
+		public $DET_CANTIDAD;
+		public $DET_IGV_LINEA_BASE_IMPONIBLE;
+		public $DET_DESCUENTO_LINEA_TIPO;
+		public $DET_DESCUENTO_LINEA;
+		public $DET_LINEA_VALOR_VENTA;
+		public $DET_LINEA_PORCENTAJE_IGV;
+		public $DEL_LINEA_IGV_OPERACION;
+		public $DEL_LINEA_DESCRIPCION;
+		public $DEL_CODIGO_PRODUCTO;
+}
